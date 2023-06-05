@@ -30,7 +30,6 @@ run app.py
 then, visit http://localhost:5000/ in your browser
 
 
-
 Built With
 Python - The main language used.
 PyTorch - The deep learning framework used.
@@ -39,6 +38,7 @@ Flask - The web framework used.
 Authors
 Shatha Alkhudhuri
 
+Link to the trained model code: https://colab.research.google.com/drive/1tXTDmrAe-5UZQvTC059lnLTnQ8rvt_DA?usp=sharing  
 
 
 reference
