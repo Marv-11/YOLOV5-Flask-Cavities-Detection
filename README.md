@@ -1,5 +1,5 @@
 
-Revolutionizing Dental Care: A Deep Learning Approach to Caries Detection
+#Revolutionizing Dental Care: A Deep Learning Approach to Caries Detection
 
 This project aims to utilize deep learning, specifically the YOLOv5 model, to detect dental caries in X-ray and colored images. This model has been trained on a dataset containing various dental images and then deployed as a web application using Flask.
 
