@@ -36,7 +36,7 @@ This project is built with the following technologies:
 Shatha Alkhudhuri
 
 ## Trained Model Code
-For the code of the trained model, you can find it on Google Colab.
+For the code of the trained model, you can find it on Google Colab : https://colab.research.google.com/drive/1tXTDmrAe-5UZQvTC059lnLTnQ8rvt_DA?usp=sharing
 
 ## References
 * YOLOv5 - Load YOLOv5 from PyTorch Hub.
