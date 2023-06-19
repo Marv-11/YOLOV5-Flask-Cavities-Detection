@@ -1,48 +1,45 @@
+# Revolutionizing Dental Care: A Deep Learning Approach to Caries Detection 
 
-#Revolutionizing Dental Care: A Deep Learning Approach to Caries Detection
+## Introduction
+Welcome to the Revolutionizing Dental Care project! This innovative endeavor aims to leverage deep learning techniques, specifically the YOLOv5 model, to detect dental caries in both X-ray and colored images. By harnessing the power of artificial intelligence, we strive to enhance dental diagnostics and improve patient care.
 
-This project aims to utilize deep learning, specifically the YOLOv5 model, to detect dental caries in X-ray and colored images. This model has been trained on a dataset containing various dental images and then deployed as a web application using Flask.
+## Getting Started
+To get started with the project, follow these steps to set up the development environment:
 
-Getting Started
+## Prerequisites
+Make sure you have the following software installed:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+* Python 3.10.11
+* PyTorch 1.6
+* Flask
 
-Prerequisites
-What things you need to install the software and how to install them:
+## Installation
+* Clone this repository to your local machine.
+* Install the required packages by running pip install -r requirements.txt.
+* Run the application using python app.py.
 
-Python 3.10.11
-PyTorch 1.6
-Flask
+## Usage
+Here's a brief overview of how to use the project:
 
-Installation
+* Run app.py.
+* Open your browser and visit http://localhost:5000/.
+* Upload an image for the model to detect dental caries.
 
-A step by step series of examples that tell you how to get a development environment running:
+## Built With
+This project is built with the following technologies:
 
-1. Clone this repository
-2. Install the required packages
-3. Run the application
+* Python - The main programming language.
+* PyTorch - The deep learning framework used for training the model.
+* Flask - The web framework used for building the application.
 
-
-Usage
-
-Briefly describe how to use your project:
-run app.py
-then, visit http://localhost:5000/ in your browser
-
-
-Built With
-Python - The main language used.
-PyTorch - The deep learning framework used.
-Flask - The web framework used.
-
-Authors
+## Author
 Shatha Alkhudhuri
 
-Link to the trained model code: https://colab.research.google.com/drive/1tXTDmrAe-5UZQvTC059lnLTnQ8rvt_DA?usp=sharing  
+## Trained Model Code
+For the code of the trained model, you can find it on Google Colab.
 
+## References
+* YOLOv5 - Load YOLOv5 from PyTorch Hub.
+* This project was forked from yolov5-flask.
 
-reference
-- https://github.com/ultralytics/yolov5
-- [Load YOLOv5 from PyTorch Hub ](https://github.com/ultralytics/yolov5/issues/36)
-- This project was forked from : https://github.com/jzhang533/yolov5-flask 
-
+Feel free to explore the project and contribute to its development. Together, let's revolutionize dental care using the power of deep learning! 💪🦷
