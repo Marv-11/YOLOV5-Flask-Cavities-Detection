@@ -19,7 +19,7 @@ Make sure you have the following software installed:
 
 ## Installation
 * Clone this repository to your local machine.
-* Install the required packages by running pip install -r requirements.txt.
+* Install the required libraries. 
 * Run the application using python app.py.
 
 ## Usage
