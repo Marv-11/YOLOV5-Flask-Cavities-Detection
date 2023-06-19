@@ -2,9 +2,10 @@
 
 ## Introduction
 Welcome to the Revolutionizing Dental Care project! This innovative endeavor aims to leverage deep learning techniques, specifically the YOLOv5 model, to detect dental caries in both X-ray and colored images. By harnessing the power of artificial intelligence, we strive to enhance dental diagnostics and improve patient care.
-
+![Screenshot (47)](https://github.com/Marv-11/YOLOV5-Flask-Cavities-Detection/assets/57326023/28c300a9-fcb5-4c31-b4b8-a9419cc23df9)
 ## Getting Started
-To get started with the project, follow these steps to set up the development environment:
+To get started with the project, follow these steps to set up the development environment
+
 
 ## Prerequisites
 Make sure you have the following software installed:
